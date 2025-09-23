@@ -1,7 +1,3 @@
-# MACHINE LEARNING
+# MACHINE LEARNING & STATISTICAL MODELS
 
-## 1. Linear Regression
-- Numpy Barebones implementation
-
-## 2. Lasso Regression
-- Feature Selection
+- Repo for experimental ml and statistical notebooks
